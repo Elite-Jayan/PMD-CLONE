@@ -1,12 +1,12 @@
 {
-"name": "Jayan",
+"name": "Sasmitha",
 "version": "2.1.2",
-"description": "Jayan has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Sasmitha has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name Jayan",
-"stop": "pm2 stop Jayan",
-"restart": "pm2 restart Jayan"
+"start": "pm2 start start.js --deep-monitoring --attach --name Sasmitha",
+"stop": "pm2 stop Sasmitha",
+"restart": "pm2 restart Sasmitha"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
